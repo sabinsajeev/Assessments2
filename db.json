@@ -1,0 +1,46 @@
+{
+  "user_data": [
+    {
+      "id": 1,
+      "name": "sabin",
+      "userid": "sasa",
+      "password": "ss123",
+      "email": "sasa@gmail.com",
+      "phone": 8084541256,
+      "gender": "male",
+      "age": 25,
+      "city": "tvm",
+      "state": "kerala",
+      "pincode": 691574,
+      "country": "india"
+    },
+    {
+      "name": "SUBIN  SAJEEV",
+      "userid": "s1234",
+      "password": "1234",
+      "email": "sabinsajeevphd@gmail.com",
+      "phone": "4582454185",
+      "gender": "Male",
+      "age": "18",
+      "city": "THIRUVANANTHAPURAM",
+      "state": "Kerala",
+      "pincode": "691574",
+      "country": "ind",
+      "id": 2
+    },
+    {
+      "name": "jijo",
+      "userid": "jijo",
+      "password": "123456",
+      "email": "samdavid@yccd.edu",
+      "phone": "584639412",
+      "gender": "Male",
+      "age": "18",
+      "city": "paravoor",
+      "state": "Kerala",
+      "pincode": "145982",
+      "country": "india",
+      "id": 3
+    }
+  ]
+}
